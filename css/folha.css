@@ -94,7 +94,7 @@ header {
   margin: 50px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
-  
+
 }
 
 .descri {
@@ -120,9 +120,8 @@ header {
 }
 
 .subtitle {
-  font-size: 24px;
-  font-weight: 600;
-  margin-bottom: 10px;
+  font-size: 20px;
+  margin-bottom: 30px;
   padding: 40px;
 }
 
