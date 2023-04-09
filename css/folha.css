@@ -88,7 +88,7 @@ header {
 .descri {
 	font-size: 20px;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin: 6%;
 }
 
@@ -115,15 +115,15 @@ header {
 
 .button {
   display: inline-block;
-  padding: 10px;
-  background-color: #0077b6;
+  padding: 20px;
+  background-color:rgba(0, 0, 0, 0.5);
   color: #fff;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   text-decoration: none;
-  border-radius: 5px;
+  border-radius: 60px;
   transition: all 0.3s ease;
-  margin: 40px;
+  margin: 10px;
 }
 
 
